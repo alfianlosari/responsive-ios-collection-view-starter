@@ -7,4 +7,4 @@
 
 ## Usage
 - Clone the project, run with Xcode 10.1
-- Follow the tutorial at
+- Follow the tutorial at https://medium.com/@alfianlosari/building-responsive-and-adaptive-ios-app-with-uicollectionview-alfian-losari-c9c987ada14
